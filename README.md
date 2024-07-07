@@ -19,7 +19,9 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 
 <!-- Data -->
 ## Data 
-We conduct evaluations using the [LiveQA dataset](https://github.com/abachaa/LiveQA_MedicalTask_TREC2017), which consists of health questions submitted by consumers to the National Library of Medicine (NLM). The test set was utilized for automatic scoring evaluation and physician evaluation.
+We conduct evaluations using the [LiveQA](https://github.com/abachaa/LiveQA_MedicalTask_TREC2017), which consists of health questions submitted by consumers to the National Library of Medicine (NLM). The test set was utilized for automatic scoring evaluation and physician evaluation.
+
+We conduct experiments on four medical QA datasets, in which the answers are free-text. LiveQA [LiveQA](https://trec.nist.gov/pubs/trec26/papers/Overview-QA.pdf) consists of health questions submitted by consumers to the National Library of Medicine. [ExpertQA](https://arxiv.org/pdf/2309.07852)  is a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with answers verified by domain experts. Among them, 504 medical questions (Med) and 96 biology (Bio) questions were used for evaluation. [MedicationQA](https://ebooks.iospress.nl/doi/10.3233/SHTI190176) includes 690 drug-related consumer questions along with information retrieved from reliable websites and scientific papers.
 
 <!-- Physician Evalution Criteria -->
 ## Physician Evalution Criteria
