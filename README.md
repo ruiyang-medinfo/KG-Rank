@@ -3,20 +3,24 @@
 Large Language Models (LLMs) have significantly advanced healthcare innovation in generation capabilities. However, their application in real clinical settings is challenging due to potential deviations from medical facts and inherent biases. In this work, we develop an augmented LLM framework, KG-Rank, which leverages a medical knowledge graph (KG) with ranking and re-ranking techniques, aiming to improve free-text question-answering (QA) in the medical domain. 
 
 <!-- Framework -->
-### KG-Rank Framework
+## KG-Rank Framework
 <br> <!--  -->
 <p align="center">
    <img src="framework.png" alt="KG-Rank Framework" style="width: 50%;"/>
 </p>
 
+### Step 1: 
+### Step 2:
+### Step 3:
+
 <!-- Contents -->
 ## Table of Contents
 
-* [Contributors](#contributors)
 * [Data](#data)
-* [Physician Evalution Criteria](#physician-evalution-criteria)
+* [LLM-based Evaluation](#llm-based-evaluation)
+* [KG-Rank in Open Domains](#kg-rank-in-open-domains)
 * [Case Study](#case-study)
-* [Demo](#demo)
+* [Contributors](#contributors)
 * [Citation](#citation)
 
 <!-- Contributors -->
