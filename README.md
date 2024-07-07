@@ -22,7 +22,8 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 We conduct experiments on four medical QA datasets, in which the answers are free-text. [LiveQA](https://trec.nist.gov/pubs/trec26/papers/Overview-QA.pdf) consists of health questions submitted by consumers to the National Library of Medicine. [ExpertQA](https://arxiv.org/pdf/2309.07852)  is a high-quality long-form QA dataset with 2177 questions spanning 32 fields, along with answers verified by domain experts. Among them, 504 medical questions (Med) and 96 biology (Bio) questions were used for evaluation. [MedicationQA](https://ebooks.iospress.nl/doi/10.3233/SHTI190176) includes 690 drug-related consumer questions along with information retrieved from reliable websites and scientific papers.
 
 <!-- LLM-based Evaluation -->
-
+## LLM-based Evaluation
+KG-Rank achieves significant improvements in ROUGE, BERTScore, MoverScore, and BLEURT, however, these automatic scores may have limitations in evaluating the factuality of long-form medical QA. Therefore, we introduce the GPT-4 score specifically for factuality evaluation. The evaluation criteria are designed by two resident physicians with over five years of experience.
 ### Evalution Criteria
 |                     | **Description**                                                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------|
