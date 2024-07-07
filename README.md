@@ -6,7 +6,7 @@ Large language models (LLMs) have brought unprecedented innovation to the health
 ### KG-Rank Framework
 <br> <!--  -->
 <p align="center">
-   <img src="UMLS_framework.jpg" alt="UMLS-Augmented-LLM"/>
+   <img src="framework.pdf" alt="Kg-Rank"/>
 </p>
 
 <!-- Contents -->
