@@ -15,8 +15,9 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 * [LLM-based Evaluation](#llm-based-evaluation)
 * [KG-Rank in Open Domains](#kg-rank-in-open-domains)
 * [Case Study](#case-study)
-* [Citation](#citation)
 * [Contact](#contact)
+* [Citation](#citation)
+
 
 <!-- Data -->
 ## Data 
@@ -53,9 +54,15 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
    <img src="case_study_two.png" style="width: 50%;"/>
 </p>
 
+<!-- Contact -->
+## Contact
+Rui Yang: yang.rui@duke-nus.edu.sg
+Dr. Irene Li: ireneli@ds.itc.u-tokyo.ac.jp
+
 <!-- Citation -->
 ## Citation
-```bibtext
+
+```bibtex
 @misc{yang2024kgrank,
       title={KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques}, 
       author={Rui Yang and Haoran Liu and Edison Marrese-Taylor and Qingcheng Zeng and Yu He Ke and Wanxin Li and Lechao Cheng and Qingyu Chen and James Caverlee and Yutaka Matsuo and Irene Li},
@@ -63,6 +70,7 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
       eprint={2403.05881},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+}
 
 Previous Research:
 @misc{yang2023integratingumlsknowledgelarge,
@@ -75,7 +83,3 @@ Previous Research:
       url={https://arxiv.org/abs/2310.02778}, 
 }
 
-<!-- Contact -->
-## Contact
-Rui Yang: yang.rui@duke-nus.edu.sg\\
-Dr. Irene Li: ireneli@ds.itc.u-tokyo.ac.jp
