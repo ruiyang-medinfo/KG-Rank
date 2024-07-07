@@ -23,7 +23,7 @@ We conduct experiments on four medical QA datasets, in which the answers are fre
 
 <!-- LLM-based Evaluation -->
 ## LLM-based Evaluation
-KG-Rank achieves significant improvements in ROUGE, BERTScore, MoverScore, and BLEURT, however, these automatic scores may have limitations in evaluating the factuality of long-form medical QA. Therefore, we introduce the GPT-4 score specifically for factuality evaluation. The evaluation criteria are designed by two resident physicians with over five years of experience.
+KG-Rank achieves significant improvements in ROUGE, BERTScore, MoverScore, and BLEURT, however, these automatic scores have limitations in evaluating the factuality of long-form medical QA. Therefore, we introduce the GPT-4 score specifically for factuality evaluation. The evaluation criteria are designed by two resident physicians with over five years of experience.
 ### Evalution Criteria
 |                     | **Description**                                                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -31,6 +31,10 @@ KG-Rank achieves significant improvements in ROUGE, BERTScore, MoverScore, and B
 | **Completeness**    | The degree to which the generated text comprehensively portrays the clinical scenario or posed question, including other pertinent considerations. |
 | **Readability**     | The extent to which the generated text is readily comprehensible to the user, incorporating suitable language and structure to facilitate accessibility. |
 | **Relevance**       | The extent to which the generated text directly addresses medical questions while encompassing a comprehensive range of pertinent information. |
+
+<!-- KG-Rank in Open Domains -->
+## KG-Rank in Open Domains
+To further demonstrate the effectiveness of KG-Rank, we extend it to the open domains (including law, business, music,and history) by replacing UMLS with Wikipedia through the [DBpedia API](https://www.dbpedia.org/). KG-Rank realizes a 14% improvement in ROUGE-L score, indicating the effectiveness and great potential of KG-Rank.
 
 <!-- Case Study -->
 ## Case Study
