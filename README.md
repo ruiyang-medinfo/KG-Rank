@@ -76,5 +76,6 @@ Previous Research:
 }
 
 <!-- Contact -->
+## Contact
 Rui Yang: yang.rui@duke-nus.edu.sg\\
 Dr. Irene Li: ireneli@ds.itc.u-tokyo.ac.jp
