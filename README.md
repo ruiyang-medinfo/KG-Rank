@@ -6,7 +6,7 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 ### KG-Rank Framework
 <br> <!--  -->
 <p align="center">
-   <img src="framework.png" alt="KG-Rank Framework"/>
+   <img src="framework.png" alt="KG-Rank Framework" style="width: 50%;"/>
 </p>
 
 <!-- Contents -->
