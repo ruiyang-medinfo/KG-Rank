@@ -1,12 +1,12 @@
 # KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques
 
-Large language models (LLMs) have brought unprecedented innovation to the healthcare field. Despite the promising application in healthcare, they face significant challenges since the generated-content might deviate from established medical facts and even exhibit potential biases. We develop an augmented LLM framework based on the Unified Medical Language System (UMLS), aiming to better serve the healthcare community. It's noteworthy that multiple resident physicians conducted blind reviews of the generated content, and the results indicate that our framework effectively enhances the factuality, completeness, and relevance of the generated content.
+Large Language Models (LLMs) have significantly advanced healthcare innovation in generation capabilities. However, their application in real clinical settings is challenging due to potential deviations from medical facts and inherent biases. In this work, we develop an augmented LLM framework, KG-Rank, which leverages a medical knowledge graph (KG) with ranking and re-ranking techniques, aiming to improve free-text question-answering (QA) in the medical domain. 
 
 <!-- Framework -->
 ### KG-Rank Framework
 <br> <!--  -->
 <p align="center">
-   <img src="framework.pdf" alt="Kg-Rank"/>
+   <img src="framework.png" alt="KG-Rank Framework"/>
 </p>
 
 <!-- Contents -->
