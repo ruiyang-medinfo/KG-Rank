@@ -11,17 +11,11 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 
 <!-- Contents -->
 ## Table of Contents
-
 * [Data](#data)
 * [LLM-based Evaluation](#llm-based-evaluation)
 * [KG-Rank in Open Domains](#kg-rank-in-open-domains)
 * [Case Study](#case-study)
-* [Contributors](#contributors)
 * [Citation](#citation)
-
-<!-- Contributors -->
-## Contributors
-Rui Yang, Edison Marrese-Taylor, Yuhe Ke, Lechao Cheng, Qingyu Chen, Irene Li
 
 <!-- Data -->
 ## Data 
