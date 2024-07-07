@@ -16,6 +16,7 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 * [KG-Rank in Open Domains](#kg-rank-in-open-domains)
 * [Case Study](#case-study)
 * [Citation](#citation)
+* [Contact](#contact)
 
 <!-- Data -->
 ## Data 
@@ -62,6 +63,18 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
       eprint={2403.05881},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+
+Previous Research:
+@misc{yang2023integratingumlsknowledgelarge,
+      title={Integrating UMLS Knowledge into Large Language Models for Medical Question Answering}, 
+      author={Rui Yang and Edison Marrese-Taylor and Yuhe Ke and Lechao Cheng and Qingyu Chen and Irene Li},
+      year={2023},
+      eprint={2310.02778},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2310.02778}, 
 }
 
-
+<!-- Contact -->
+Rui Yang: yang.rui@duke-nus.edu.sg\\
+Dr. Irene Li: ireneli@ds.itc.u-tokyo.ac.jp
