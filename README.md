@@ -6,7 +6,7 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 ## KG-Rank Framework
 <br> <!--  -->
 <p align="center">
-   <img src="framework.png" alt="KG-Rank Framework" style="width: 50%;"/>
+   <img src="framework.png" style="width: 50%;"/>
 </p>
 
 <!-- Contents -->
@@ -56,8 +56,8 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
 </p>
 
 ## System Demo
-
-* Early KG-Rank Demo (based on ChatGPT-3.5) Creation Time: Oct 2023. 
+Early KG-Rank Demo (based on ChatGPT-3.5) 
+Creation Time: Oct 2023. 
 <br> <!--  -->
 <p align="center">
    <img src="KG-Rank demo.gif" width="1200"/>
