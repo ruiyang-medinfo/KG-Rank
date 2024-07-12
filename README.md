@@ -15,6 +15,7 @@ Large Language Models (LLMs) have significantly advanced healthcare innovation i
 * [LLM-based Evaluation](#llm-based-evaluation)
 * [KG-Rank in Open Domains](#kg-rank-in-open-domains)
 * [Case Study](#case-study)
+* [System Demo](#sys)
 * [Contact](#contact)
 * [Citation](#citation)
 
@@ -53,6 +54,11 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
 <p align="center">
    <img src="case_study_two.png" style="width: 50%;"/>
 </p>
+
+## System Demo
+
+* results by Oct 2023. 
+
 
 <!-- Contact -->
 ## Contact
