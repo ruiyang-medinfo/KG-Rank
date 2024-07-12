@@ -57,7 +57,7 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
 
 ## System Demo
 
-* results by Oct 2023. 
+* Early KG-Rank Demo (based on ChatGPT-3.5) Creation Time: Oct 2023. 
 <br> <!--  -->
 <p align="center">
    <img src="KG-Rank demo.gif" width="1200"/>
