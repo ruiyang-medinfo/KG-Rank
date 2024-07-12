@@ -58,7 +58,10 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
 ## System Demo
 
 * results by Oct 2023. 
-
+<br> <!--  -->
+<p align="center">
+   <img src="system_demo.gif" alt="UMLS-Augmented-LLM" width="1200"/>
+</p>
 
 <!-- Contact -->
 ## Contact
