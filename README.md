@@ -65,7 +65,7 @@ Early KG-Rank Demo (based on ChatGPT-3.5) <br> Creation Time: Oct 2023.
 
 <!-- Contact -->
 ## Contact
-Rui Yang: yang.rui@duke-nus.edu.sg
+Rui Yang: yang.rui@duke-nus.edu.sg <br>
 Dr. Irene Li: ireneli@ds.itc.u-tokyo.ac.jp
 
 <!-- Citation -->
