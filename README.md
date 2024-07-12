@@ -55,7 +55,8 @@ To further demonstrate the effectiveness of KG-Rank, we extend it to the open do
    <img src="case_study_two.png" style="width: 50%;"/>
 </p>
 
-## System Demo
+<!-- System Demo -->
+## sys
 Early KG-Rank Demo (based on ChatGPT-3.5) <br> Creation Time: Oct 2023. 
 <br> <!--  -->
 <p align="center">
