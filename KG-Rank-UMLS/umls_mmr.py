@@ -116,7 +116,6 @@ def calculate_rerank_scores(query_embedding, relation_embeddings, rerank_relatio
             scores.append((i, score))
     return scores
 
-
 def get_umls_keys(query, prompt, llm):
     umls_res = {}
     prompt = prompt.replace("{question}", query)
